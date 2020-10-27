@@ -21,7 +21,10 @@
     <explicitExcludes>
       <Path>.idea</Path>
       <Path>Library</Path>
+<<<<<<< HEAD
       <Path>Logs</Path>
+=======
+>>>>>>> origin/Cody
       <Path>Temp</Path>
       <Path>obj</Path>
     </explicitExcludes>
