@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7df3411-358e-497b-b3a4-c71212582aef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Characters/Dummy/Materials/Dummy Ghost.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Characters/Dummy/Materials/Dummy Ghost.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Characters/Dummy/Materials/Dummy0000.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Characters/Dummy/Materials/Dummy0000.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Characters/Pilot/Materials/Pilot Body Ghost.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Characters/Pilot/Materials/Pilot Body Ghost.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Characters/Pilot/Materials/Pilot Head Ghost.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Characters/Pilot/Materials/Pilot Head Ghost.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials/body_color_map.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials/body_color_map.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials/eyes_color_map.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials/eyes_color_map.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials/face_color_map.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials/face_color_map.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Black Grid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Black Grid.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Black Smooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Black Smooth.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Blue Grid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Blue Grid.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Blue Smooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Blue Smooth.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Green Grid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Green Grid.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Green Smooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Green Smooth.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Red Smooth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Prototype Red Smooth.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Target.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Target.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scenes/__Kevin_Debug.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scenes/__Kevin_Debug.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +25,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../Unity Builds/PoliceDemo\PoliceDemo.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="E:\Unity Builds\PoliceDemo" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -68,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603832454464</updated>
-      <workItem from="1603832514238" duration="592000" />
+      <workItem from="1603832514238" duration="596000" />
     </task>
     <servers />
   </component>
