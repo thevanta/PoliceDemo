@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\kevin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\kevin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_PoliceDemo.2038820235.00" t="ExcludeRecursive" />
-    <e p="E:\Unity Projects\PoliceDemo\PoliceDemo" t="IncludeRecursive">
+    <e p="C:\Users\kevin\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kevin\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_PoliceDemo.1393070841.00" t="ExcludeRecursive" />
+    <e p="D:\Box\UnityProjects\PoliceDemo\PoliceDemo" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="AnimationRecorder.cs" t="Include" />
+        <e p="_Project" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="AnimationRecorder.cs" t="Include" />
+          </e>
+        </e>
         <e p="Enhanced Hierarchy" t="Include">
           <e p="Editor" t="Include">
             <e p="After.cs" t="Include" />
@@ -545,6 +549,155 @@
               </e>
             </e>
             <e p="Readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Rogo Digital" t="Include">
+          <e p="LipSync Pro" t="Include">
+            <e p="AutoSync" t="Include">
+              <e p="Editor" t="Include">
+                <e p="AutoSync.cs" t="Include" />
+                <e p="AutoSyncConversionUtility.cs" t="Include" />
+                <e p="AutoSyncExternalPhonemeMap.cs" t="Include" />
+                <e p="AutoSyncExternalPhonemeMapEditor.cs" t="Include" />
+                <e p="AutoSyncLanguageModel.cs" t="Include" />
+                <e p="AutoSyncModule.cs" t="Include" />
+                <e p="AutoSyncModuleInfoAttribute.cs" t="Include" />
+                <e p="AutoSyncModuleSettings.cs" t="Include" />
+                <e p="AutoSyncPhonemeMap.cs" t="Include" />
+                <e p="AutoSyncPreset.cs" t="Include" />
+                <e p="AutoSyncUtility.cs" t="Include" />
+                <e p="ClipFeatures.cs" t="Include" />
+                <e p="Modules" t="Include">
+                  <e p="Phoneme Marker Cleanup" t="Include">
+                    <e p="1.0.0.txt" t="Include" />
+                    <e p="ASPhonemeMarkerCleanupModule.cs" t="Include" />
+                  </e>
+                  <e p="PocketSphinx" t="Include">
+                    <e p="1.1.0.txt" t="Include" />
+                    <e p="ASPocketSphinxLanguageModel.cs" t="Include" />
+                    <e p="ASPocketSphinxLanguageModelEditor.cs" t="Include" />
+                    <e p="ASPocketSphinxPhonemeDetectionModule.cs" t="Include" />
+                    <e p="ASPocketSphinxPhonemeDetectionModuleEditor.cs" t="Include" />
+                    <e p="PocketSphinx License.txt" t="Include" />
+                    <e p="SphinxWrapper.cs" t="Include" />
+                  </e>
+                  <e p="Set Intensity From Volume" t="Include">
+                    <e p="1.1.0.txt" t="Include" />
+                    <e p="ASPhonemeIntensityFromVolumeModule.cs" t="Include" />
+                    <e p="ASPhonemeIntensityFromVolumeModuleEditor.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="SoX Sound Exchange" t="Include">
+                <e p="sox-14.4.2-macosx" t="Include">
+                  <e p="libsox.txt" t="Include" />
+                  <e p="LICENSE.GPL.txt" t="Include" />
+                  <e p="README.osx.txt" t="Include" />
+                  <e p="sox.txt" t="Include" />
+                  <e p="soxformat.txt" t="Include" />
+                  <e p="soxi.txt" t="Include" />
+                </e>
+                <e p="sox-14.4.2-win32" t="Include">
+                  <e p="ChangeLog.txt" t="Include" />
+                  <e p="LICENSE.GPL.txt" t="Include" />
+                  <e p="Readme.txt" t="Include" />
+                  <e p="README.win32.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="BlendSystems" t="Include">
+              <e p="AdvancedBlendshapeBlendSystem.cs" t="Include" />
+              <e p="BlendshapeBlendSystem.cs" t="Include" />
+              <e p="BlendshapeManager.cs" t="Include" />
+              <e p="BonesOnlyBlendSystem.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="BlendshapeBlendSystemEditor.cs" t="Include" />
+              </e>
+              <e p="NewBlendSystemTemplate.cs.txt" t="Include" />
+              <e p="SpriteBlendSystem.cs" t="Include" />
+              <e p="SpriteManager.cs" t="Include" />
+              <e p="TextureOffsetBlendSystem.cs" t="Include" />
+              <e p="TextureOffsetManager.cs" t="Include" />
+            </e>
+            <e p="Classes" t="Include">
+              <e p="Blendable.cs" t="Include" />
+              <e p="BlendSystem.cs" t="Include" />
+              <e p="BlendSystemButton.cs" t="Include" />
+              <e p="BlendSystemUser.cs" t="Include" />
+              <e p="BoneShape.cs" t="Include" />
+              <e p="EmotionMarker.cs" t="Include" />
+              <e p="EmotionMixer.cs" t="Include" />
+              <e p="EmotionShape.cs" t="Include" />
+              <e p="GestureInstance.cs" t="Include" />
+              <e p="GestureMarker.cs" t="Include" />
+              <e p="LipSyncData.cs" t="Include" />
+              <e p="LipSyncExtensions.cs" t="Include" />
+              <e p="LipSyncPreset.cs" t="Include" />
+              <e p="LipSyncProject.cs" t="Include" />
+              <e p="PhonemeMarker.cs" t="Include" />
+              <e p="PhonemeSet.cs" t="Include" />
+              <e p="PhonemeShape.cs" t="Include" />
+              <e p="Shape.cs" t="Include" />
+              <e p="TemporaryLipSyncData.cs" t="Include" />
+              <e p="TransformAnimationCurve.cs" t="Include" />
+            </e>
+            <e p="Components" t="Include">
+              <e p="EyeController.cs" t="Include" />
+              <e p="LipSync.cs" t="Include" />
+            </e>
+            <e p="Documentation is now online!.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="AudioUtility.cs" t="Include" />
+              <e p="AutoSyncSetupWizard.cs" t="Include" />
+              <e p="BakeBlendshapesTool.cs" t="Include" />
+              <e p="BlendshapeManagerEditor.cs" t="Include" />
+              <e p="BlendSystemEditor.cs" t="Include" />
+              <e p="EyeControllerEditor.cs" t="Include" />
+              <e p="GestureSetupWizard.cs" t="Include" />
+              <e p="LipSyncClipSetup.cs" t="Include" />
+              <e p="LipSyncDataEditor.cs" t="Include" />
+              <e p="LipSyncDataPreprocessor.cs" t="Include" />
+              <e p="LipSyncEditor.cs" t="Include" />
+              <e p="LipSyncEditorExtensions.cs" t="Include" />
+              <e p="LipSyncPresetEditor.cs" t="Include" />
+              <e p="LipSyncProjectSettings.cs" t="Include" />
+              <e p="Modals" t="Include">
+                <e p="AutoSyncWindow.cs" t="Include" />
+                <e p="ClipSettingsWindow.cs" t="Include" />
+                <e p="DefaultMarkerSettingsWindow.cs" t="Include" />
+                <e p="EmotionMixerWindow.cs" t="Include" />
+                <e p="MarkerSettingsWindow.cs" t="Include" />
+                <e p="SetIntensityWindow.cs" t="Include" />
+              </e>
+              <e p="PhonemeSetEditor.cs" t="Include" />
+              <e p="PoseExtractorWizard.cs" t="Include" />
+              <e p="SpriteManagerEditor.cs" t="Include" />
+            </e>
+            <e p="Examples" t="Include">
+              <e p="Audio" t="Include">
+                <e p="Gettysburg.txt" t="Include" />
+                <e p="Tempest.txt" t="Include" />
+              </e>
+              <e p="Models" t="Include">
+                <e p="GRFL_Head_Liza" t="Include">
+                  <e p="Readme.txt" t="Include" />
+                  <e p="Shaders" t="Include">
+                    <e p="DoubleSided_Alpha-Diffuse.shader" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="READ BEFORE IMPORTING!.txt" t="Include" />
+          <e p="Shared" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ContinuationManager.cs" t="Include" />
+              <e p="ModalParent.cs" t="Include" />
+              <e p="ModalWindow.cs" t="Include" />
+              <e p="RDEditorShortcut.cs" t="Include" />
+              <e p="RDExtensionWindow.cs" t="Include" />
+              <e p="WizardWindow.cs" t="Include" />
+            </e>
           </e>
         </e>
         <e p="Scripts" t="Include">
