@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7df3411-358e-497b-b3a4-c71212582aef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/Final IK (Unity 2017.4.28f1, Final IK 2.0).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/Goblin Archer (2,5D Puppets).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/Invector's Third Person Controller - Basic Locomotion FREE (v 1.0c).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/Kinematic Character Controller (Unity 2018.3.5f1, KKC v 3.2.1).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/Ootii's Motion Controller v2.73 (Unity 5.5.0).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/Opsive's Third Person Controller v1.3.10.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/Opsive's UCC (Unity 2018.4.23f1, UCC 2.2.3).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/Photon (PUN 1.103).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/Photon (PUN 2.20.2).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/UMA (Unity 2017.4.28f1, UMA 2.8.1).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/UNet.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/PuppetMaster/_Integration/VR Boxing (Oculus, Unity 2017.4.28f1).unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Attribute Processors.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Drawers.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Editor Windows.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Sample - RPG Editor.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRFL_Head_Liza.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRFL_Head_Liza.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRH_Iris_Liza.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRH_Iris_Liza.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRH_Lens_Liza.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRH_Lens_Liza.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRH_Teeth_Liza.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRH_Teeth_Liza.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRH_Tongue_Liza.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/GRFL_Head_Liza/Models/Materials/GRH_Tongue_Liza.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #105.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #105.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #125.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #125.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #135.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #135.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #35.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #35.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #55.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #55.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #75.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #75.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #85.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #85.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #95.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/Material #95.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/background.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/background.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Beard_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Beard_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Body_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Body_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Bottom_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Bottom_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Eye_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Eye_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Eyelash_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Eyelash_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Hat_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Hat_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Shoes_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Shoes_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Top_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rogo Digital/LipSync Pro/Examples/Models/Materials/lincoln_Top_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleScenePostProcessingSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleScenePostProcessingSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneSkyandFogSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneSkyandFogSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Project/Props/PoliceCar/PoliceCar_01/textures/interior.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Props/PoliceCar/PoliceCar_01/textures/interior.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Project/Props/PoliceCar/PoliceCar_01/textures/roof light bar.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Props/PoliceCar/PoliceCar_01/textures/roof light bar.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/HDRPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/HDRPProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603832454464</updated>
       <workItem from="1603832514238" duration="1188000" />
-      <workItem from="1605227231318" duration="2153000" />
+      <workItem from="1605227231318" duration="2744000" />
     </task>
     <servers />
   </component>
