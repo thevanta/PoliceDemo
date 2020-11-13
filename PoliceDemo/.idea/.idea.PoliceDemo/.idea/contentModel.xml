@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\kevin\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\kevin\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_PoliceDemo.1393070841.00" t="ExcludeRecursive" />
-    <e p="D:\Box\UnityProjects\PoliceDemo\PoliceDemo" t="IncludeRecursive">
+    <e p="C:\Users\Cody\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Cody\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_PoliceDemo.-1294541014.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Cody\Unity Projects\PoliceDemo\PoliceDemo" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="_Project" t="Include">
+          <e p="Props" t="Include">
+            <e p="PoliceCar" t="Include">
+              <e p="DodgeCharger_01" t="Include">
+                <e p="source" t="Include">
+                  <e p="Readme.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
           <e p="Scripts" t="Include">
             <e p="AnimationRecorder.cs" t="Include" />
+            <e p="CameraMovement.cs" t="Include" />
+            <e p="CopLight.cs" t="Include" />
+            <e p="LightManager.cs" t="Include" />
+            <e p="PlayAudio.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
           </e>
         </e>
         <e p="Enhanced Hierarchy" t="Include">
@@ -56,6 +70,9 @@
             <e p="Styles.cs" t="Include" />
             <e p="Utility.cs" t="Include" />
           </e>
+        </e>
+        <e p="Materials" t="Include">
+          <e p="Tranclucent.shader" t="Include" />
         </e>
         <e p="Plugins" t="Include">
           <e p="RootMotion" t="Include">
@@ -568,6 +585,27 @@
                 <e p="AutoSyncUtility.cs" t="Include" />
                 <e p="ClipFeatures.cs" t="Include" />
                 <e p="Modules" t="Include">
+                  <e p="Montreal Forced Aligner" t="Include">
+                    <e p="1.2.0.txt" t="Include" />
+                    <e p="ASMontrealLanguageModel.cs" t="Include" />
+                    <e p="ASMontrealLanguageModelEditor.cs" t="Include" />
+                    <e p="ASMontrealPhonemeDetectionModule.cs" t="Include" />
+                    <e p="ASMontrealPhonemeDetectionModuleEditor.cs" t="Include" />
+                    <e p="ASMontrealPhonemeDetectionSettings.cs" t="Include" />
+                    <e p="ASMontrealPhonemeDetectionSettingsEditor.cs" t="Include" />
+                    <e p="Language Models" t="Include">
+                      <e p="English" t="Include">
+                        <e p="librispeech-lexicon.txt" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Montreal Forced Aligner License.txt" t="Include" />
+                    <e p="montreal-forced-aligner-win" t="Include">
+                      <e p="pretrained_models" t="Include">
+                        <e p="DO NOT DELETE.txt" t="Include" />
+                      </e>
+                    </e>
+                    <e p="TextGridUtility.cs" t="Include" />
+                  </e>
                   <e p="Phoneme Marker Cleanup" t="Include">
                     <e p="1.0.0.txt" t="Include" />
                     <e p="ASPhonemeMarkerCleanupModule.cs" t="Include" />
@@ -699,9 +737,6 @@
               <e p="WizardWindow.cs" t="Include" />
             </e>
           </e>
-        </e>
-        <e p="Scripts" t="Include">
-          <e p="SimpleCameraController.cs" t="Include" />
         </e>
         <e p="TutorialInfo" t="Include">
           <e p="Scripts" t="Include">
