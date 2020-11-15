@@ -248,6 +248,1022 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &63524944 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1813740421252100852, guid: 4129e3c6c52eca64e9f19b0462504af0,
+    type: 3}
+  m_PrefabInstance: {fileID: 3825043879861155442}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &63524945
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 63524944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73062c91ee80bb040abd084433473a81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isReady: 1
+  users:
+  - {fileID: 63524947}
+  - {fileID: 63524948}
+  _blendables:
+  - number: 0
+    currentWeight: 0
+  - number: 1
+    currentWeight: 0
+  - number: 2
+    currentWeight: 0
+  - number: 3
+    currentWeight: 0
+  - number: 4
+    currentWeight: 0
+  - number: 5
+    currentWeight: 0
+  - number: 6
+    currentWeight: 0
+  - number: 7
+    currentWeight: 0
+  - number: 8
+    currentWeight: 0
+  - number: 9
+    currentWeight: 0
+  - number: 10
+    currentWeight: 0
+  - number: 11
+    currentWeight: 0
+  - number: 12
+    currentWeight: 0
+  - number: 13
+    currentWeight: 0
+  - number: 14
+    currentWeight: 0
+  - number: 15
+    currentWeight: 0
+  - number: 16
+    currentWeight: 0
+  - number: 17
+    currentWeight: 0
+  - number: 18
+    currentWeight: 0
+  - number: 19
+    currentWeight: 0
+  - number: 20
+    currentWeight: 0
+  - number: 21
+    currentWeight: 0
+  - number: 22
+    currentWeight: 0
+  - number: 23
+    currentWeight: 0
+  - number: 24
+    currentWeight: 0
+  - number: 25
+    currentWeight: 0
+  - number: 26
+    currentWeight: 0
+  - number: 27
+    currentWeight: 0
+  - number: 28
+    currentWeight: 0
+  - number: 29
+    currentWeight: 0
+  - number: 30
+    currentWeight: 0
+  - number: 31
+    currentWeight: 0
+  - number: 32
+    currentWeight: 0
+  - number: 33
+    currentWeight: 0
+  - number: 34
+    currentWeight: 0
+  - number: 35
+    currentWeight: 0
+  - number: 36
+    currentWeight: 0
+  - number: 37
+    currentWeight: 0
+  - number: 38
+    currentWeight: 0
+  - number: 39
+    currentWeight: 0
+  - number: 40
+    currentWeight: 0
+  - number: 41
+    currentWeight: 0
+  - number: 42
+    currentWeight: 0
+  - number: 43
+    currentWeight: 0
+  - number: 44
+    currentWeight: 0
+  - number: 45
+    currentWeight: 0
+  - number: 46
+    currentWeight: 0
+  - number: 47
+    currentWeight: 0
+  - number: 48
+    currentWeight: 0
+  - number: 49
+    currentWeight: 0
+  - number: 50
+    currentWeight: 0
+  - number: 51
+    currentWeight: 0
+  - number: 52
+    currentWeight: 0
+  - number: 53
+    currentWeight: 0
+  - number: 54
+    currentWeight: 0
+  - number: 55
+    currentWeight: 0
+  - number: 56
+    currentWeight: 0
+  - number: 57
+    currentWeight: 0
+  - number: 58
+    currentWeight: 0
+  - number: 59
+    currentWeight: 0
+  - number: 60
+    currentWeight: 0
+  - number: 61
+    currentWeight: 0
+  - number: 62
+    currentWeight: 0
+  - number: 63
+    currentWeight: 0
+  - number: 64
+    currentWeight: 0
+  - number: 65
+    currentWeight: 0
+  - number: 66
+    currentWeight: 0
+  - number: 67
+    currentWeight: 0
+  - number: 68
+    currentWeight: 0
+  - number: 69
+    currentWeight: 0
+  - number: 70
+    currentWeight: 0
+  - number: 71
+    currentWeight: 0
+  - number: 72
+    currentWeight: 0
+  - number: 73
+    currentWeight: 0
+  - number: 74
+    currentWeight: 0
+  - number: 75
+    currentWeight: 0
+  - number: 76
+    currentWeight: 0
+  - number: 77
+    currentWeight: 0
+  - number: 78
+    currentWeight: 0
+  - number: 79
+    currentWeight: 0
+  - number: 80
+    currentWeight: 0
+  - number: 81
+    currentWeight: 0
+  - number: 82
+    currentWeight: 0
+  - number: 83
+    currentWeight: 0
+  - number: 84
+    currentWeight: 0
+  - number: 85
+    currentWeight: 0
+  - number: 86
+    currentWeight: 0
+  - number: 87
+    currentWeight: 0
+  - number: 88
+    currentWeight: 0
+  - number: 89
+    currentWeight: 0
+  - number: 90
+    currentWeight: 0
+  - number: 91
+    currentWeight: 0
+  - number: 92
+    currentWeight: 0
+  - number: 93
+    currentWeight: 0
+  - number: 94
+    currentWeight: 0
+  - number: 95
+    currentWeight: 0
+  - number: 96
+    currentWeight: 0
+  - number: 97
+    currentWeight: 0
+  - number: 98
+    currentWeight: 0
+  - number: 99
+    currentWeight: 0
+  - number: 100
+    currentWeight: 0
+  - number: 101
+    currentWeight: 0
+  - number: 102
+    currentWeight: 0
+  - number: 103
+    currentWeight: 0
+  - number: 104
+    currentWeight: 0
+  - number: 105
+    currentWeight: 0
+  - number: 106
+    currentWeight: 0
+  - number: 107
+    currentWeight: 0
+  - number: 108
+    currentWeight: 0
+  - number: 109
+    currentWeight: 0
+  - number: 110
+    currentWeight: 0
+  - number: 111
+    currentWeight: 0
+  - number: 112
+    currentWeight: 0
+  - number: 113
+    currentWeight: 0
+  - number: 114
+    currentWeight: 0
+  - number: 115
+    currentWeight: 0
+  - number: 116
+    currentWeight: 0
+  - number: 117
+    currentWeight: 0
+  - number: 118
+    currentWeight: 0
+  - number: 119
+    currentWeight: 0
+  - number: 120
+    currentWeight: 0
+  - number: 121
+    currentWeight: 0
+  - number: 122
+    currentWeight: 0
+  manager: {fileID: 63524946}
+--- !u!114 &63524946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 63524944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dc1e47bffd97414a93a92fb41f56b80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blendShapes:
+  - name: Genesis8Male__eCTRLSurprised_HD
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 0
+  - name: Genesis8Male__eCTRLSmileOpenFullFace_HD
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 1
+  - name: Genesis8Male__eCTRLSmileFullFace_HD
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 2
+  - name: Genesis8Male__eCTRLShock_HD
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 3
+  - name: Genesis8Male__eCTRLFrown_HD
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 4
+  - name: Genesis8Male__eCTRLFlirting_HD
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 5
+  - name: Genesis8Male__eCTRLAngry_HD
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 6
+  - name: Genesis8Male__eCTRLAfraid_HD
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 7
+  - name: Genesis8Male__eCTRLvW
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 8
+  - name: Genesis8Male__eCTRLvUW
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 9
+  - name: Genesis8Male__eCTRLvTH
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 10
+  - name: Genesis8Male__eCTRLvT
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 11
+  - name: Genesis8Male__eCTRLvSH
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 12
+  - name: Genesis8Male__eCTRLvS
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 13
+  - name: Genesis8Male__eCTRLvOW
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 14
+  - name: Genesis8Male__eCTRLvM
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 15
+  - name: Genesis8Male__eCTRLvL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 16
+  - name: Genesis8Male__eCTRLvK
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 17
+  - name: Genesis8Male__eCTRLvIY
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 18
+  - name: Genesis8Male__eCTRLvIH
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 19
+  - name: Genesis8Male__eCTRLvF
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 20
+  - name: Genesis8Male__eCTRLvER
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 21
+  - name: Genesis8Male__eCTRLvEH
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 22
+  - name: Genesis8Male__eCTRLvEE
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 23
+  - name: Genesis8Male__eCTRLvAA
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 24
+  - name: Genesis8Male__eCTRLTongueUp-Down
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 25
+  - name: Genesis8Male__eCTRLTongueSide-Side
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 26
+  - name: Genesis8Male__eCTRLTongueRaise-Lower
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 27
+  - name: Genesis8Male__eCTRLTongueNarrow-Wide
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 28
+  - name: Genesis8Male__eCTRLTongueIn-Out
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 29
+  - name: Genesis8Male__eCTRLTongueCurl
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 30
+  - name: Genesis8Male__eCTRLTongueBendTip
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 31
+  - name: Genesis8Male__eCTRLNostrilsFlex
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 32
+  - name: Genesis8Male__eCTRLNoseWrinkle
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 33
+  - name: Genesis8Male__eCTRLNoseScrunch
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 34
+  - name: Genesis8Male__eCTRLMouthWide-NarrowR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 35
+  - name: Genesis8Male__eCTRLMouthWide-NarrowL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 36
+  - name: Genesis8Male__eCTRLMouthWide-Narrow
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 37
+  - name: Genesis8Male__eCTRLMouthSmileSimpleR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 38
+  - name: Genesis8Male__eCTRLMouthSmileSimpleL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 39
+  - name: Genesis8Male__eCTRLMouthSmileSimple
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 40
+  - name: Genesis8Male__eCTRLMouthSmileOpen
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 41
+  - name: Genesis8Male__eCTRLMouthSmile
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 42
+  - name: Genesis8Male__eCTRLMouthSide-SideR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 43
+  - name: Genesis8Male__eCTRLMouthSide-SideL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 44
+  - name: Genesis8Male__eCTRLMouthSide-Side
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 45
+  - name: Genesis8Male__eCTRLMouthOpenLipsClose
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 46
+  - name: Genesis8Male__eCTRLMouthOpen
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 47
+  - name: Genesis8Male__eCTRLMouthFrown
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 48
+  - name: Genesis8Male__eCTRLMouthCornerUp-DownR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 49
+  - name: Genesis8Male__eCTRLMouthCornerUp-DownL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 50
+  - name: Genesis8Male__eCTRLMouthCornerUp-Down
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 51
+  - name: Genesis8Male__eCTRLMouthCornerForward-BackR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 52
+  - name: Genesis8Male__eCTRLMouthCornerForward-BackL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 53
+  - name: Genesis8Male__eCTRLMouthCornerForward-Back
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 54
+  - name: Genesis8Male__eCTRLMouthClosed
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 55
+  - name: Genesis8Male__eCTRLLipTopUp-DownR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 56
+  - name: Genesis8Male__eCTRLLipTopUp-DownL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 57
+  - name: Genesis8Male__eCTRLLipTopUp-Down
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 58
+  - name: Genesis8Male__eCTRLLipTopOut-InR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 59
+  - name: Genesis8Male__eCTRLLipTopOut-InL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 60
+  - name: Genesis8Male__eCTRLLipTopOut-In
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 61
+  - name: Genesis8Male__eCTRLLipsPuckerWide
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 62
+  - name: Genesis8Male__eCTRLLipsPucker-Pressed
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 63
+  - name: Genesis8Male__eCTRLLipsPartCenter
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 64
+  - name: Genesis8Male__eCTRLLipsPart
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 65
+  - name: Genesis8Male__eCTRLLipsClosed-BareTeeth
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 66
+  - name: Genesis8Male__eCTRLLipBottomUp-DownR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 67
+  - name: Genesis8Male__eCTRLLipBottomUp-DownL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 68
+  - name: Genesis8Male__eCTRLLipBottomUp-Down
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 69
+  - name: Genesis8Male__eCTRLLipBottomOut-InR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 70
+  - name: Genesis8Male__eCTRLLipBottomOut-InL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 71
+  - name: Genesis8Male__eCTRLLipBottomOut-In
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 72
+  - name: Genesis8Male__eCTRLJawSide-Side
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 73
+  - name: Genesis8Male__eCTRLJawOut-In
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 74
+  - name: Genesis8Male__eCTRLEyesUpDown
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 75
+  - name: Genesis8Male__eCTRLEyesSquint-WidenR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 76
+  - name: Genesis8Male__eCTRLEyesSquint-WidenL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 77
+  - name: Genesis8Male__eCTRLEyesSquint-Widen
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 78
+  - name: Genesis8Male__eCTRLEyesSideSide
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 79
+  - name: Genesis8Male__eCTRLEyesRelaxR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 80
+  - name: Genesis8Male__eCTRLEyesRelaxL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 81
+  - name: Genesis8Male__eCTRLEyesRelax
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 82
+  - name: Genesis8Male__eCTRLEyesCrossed
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 83
+  - name: Genesis8Male__eCTRLEyesClosedR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 84
+  - name: Genesis8Male__eCTRLEyesClosedL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 85
+  - name: Genesis8Male__eCTRLEyesClosed
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 86
+  - name: Genesis8Male__eCTRLEyelidsUpperUp-DownR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 87
+  - name: Genesis8Male__eCTRLEyelidsUpperUp-DownL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 88
+  - name: Genesis8Male__eCTRLEyelidsUpperUp-Down
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 89
+  - name: Genesis8Male__eCTRLEyelidsLowerUpDownR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 90
+  - name: Genesis8Male__eCTRLEyelidsLowerUpDownL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 91
+  - name: Genesis8Male__eCTRLEyelidsLowerUpDown
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 92
+  - name: Genesis8Male__eCTRLCheeksDimpleCreaseHD
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 93
+  - name: Genesis8Male__eCTRLCheeksBalloonPucker
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 94
+  - name: Genesis8Male__eCTRLCheeksBalloon-SuckInR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 95
+  - name: Genesis8Male__eCTRLCheeksBalloon-SuckInL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 96
+  - name: Genesis8Male__eCTRLCheeksBalloon-SuckIn
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 97
+  - name: Genesis8Male__eCTRLCheekFlex-SlackR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 98
+  - name: Genesis8Male__eCTRLCheekFlex-SlackL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 99
+  - name: Genesis8Male__eCTRLCheekFlex-Slack
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 100
+  - name: Genesis8Male__eCTRLCheekEyeFlexR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 101
+  - name: Genesis8Male__eCTRLCheekEyeFlexL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 102
+  - name: Genesis8Male__eCTRLCheekEyeFlex
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 103
+  - name: Genesis8Male__eCTRLCheekCrease
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 104
+  - name: Genesis8Male__eCTRLBrowUp-DownR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 105
+  - name: Genesis8Male__eCTRLBrowUp-DownL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 106
+  - name: Genesis8Male__eCTRLBrowUp-Down
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 107
+  - name: Genesis8Male__eCTRLBrowSqueezeR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 108
+  - name: Genesis8Male__eCTRLBrowSqueezeL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 109
+  - name: Genesis8Male__eCTRLBrowSqueeze
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 110
+  - name: Genesis8Male__eCTRLBrowOuterUp-DownR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 111
+  - name: Genesis8Male__eCTRLBrowOuterUp-DownL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 112
+  - name: Genesis8Male__eCTRLBrowOuterUp-Down
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 113
+  - name: Genesis8Male__eCTRLBrowInnerUp-DownR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 114
+  - name: Genesis8Male__eCTRLBrowInnerUp-DownL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 115
+  - name: Genesis8Male__eCTRLBrowInnerUp-Down
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 116
+  - name: Genesis8Male__PHMNoseCompression_HD_div2
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 117
+  - name: Genesis8Male__PHMCheeksDimpleCreaseR_HD_div2
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 118
+  - name: Genesis8Male__PHMCheeksDimpleCreaseL_HD_div2
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 119
+  - name: Genesis8Male__PHMBrowCompression_HD_div2
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 120
+  - name: Genesis8Male__ePHMCheekCreaseR
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 121
+  - name: Genesis8Male__ePHMCheekCreaseL
+    mappings:
+    - skinnedMeshRenderer: {fileID: 1562061910}
+      blendShapeIndex: 122
+  blendSystem: {fileID: 63524945}
+--- !u!114 &63524947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 63524944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60953a4eedd70a246ab4eadbed9f0591, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blendSystem: {fileID: 63524945}
+  audioSource: {fileID: 686081493}
+  useBones: 0
+  boneUpdateAnimation: 0
+  phonemes:
+  - blendShapes: 18000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    phonemeName: AI
+    phoneme: 0
+  - blendShapes: 17000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    phonemeName: E
+    phoneme: 0
+  - blendShapes: 09000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    phonemeName: U
+    phoneme: 0
+  - blendShapes: 0e000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    phonemeName: O
+    phoneme: 0
+  - blendShapes: 11000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    phonemeName: CDGKNRSThYZ
+    phoneme: 0
+  - blendShapes: 14000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    phonemeName: FV
+    phoneme: 0
+  - blendShapes: 10000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    phonemeName: L
+    phoneme: 0
+  - blendShapes: 0f000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    phonemeName: MBP
+    phoneme: 0
+  - blendShapes: 08000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    phonemeName: WQ
+    phoneme: 0
+  - blendShapes: 
+    blendableNames: []
+    weights: []
+    bones: []
+    verified: 1
+    phonemeName: Rest
+    phoneme: 0
+  emotions:
+  - blendShapes: 02000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    emotion: Happy
+  - blendShapes: 06000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 14.4
+    bones: []
+    verified: 1
+    emotion: Serious
+  - blendShapes: 00000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 44.8
+    bones: []
+    verified: 1
+    emotion: Eyebrows Up
+  - blendShapes: 04000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+    emotion: Sad
+  - blendShapes: 
+    blendableNames: []
+    weights: []
+    bones: []
+    verified: 1
+    emotion: Blink
+  playOnAwake: 1
+  loop: 0
+  defaultClip: {fileID: 11400000, guid: c003f5c3254331749915c80d6b3fdab4, type: 2}
+  defaultDelay: 0
+  scaleAudioSpeed: 1
+  m_animationTimingMode: 0
+  frameRate: 30
+  restTime: 0.2
+  restHoldTime: 0.4
+  phonemeCurveGenerationMode: 1
+  emotionCurveGenerationMode: 0
+  keepEmotionWhenFinished: 0
+  setNeutralBonePosesOnStart: 0
+  gesturesAnimator: {fileID: 0}
+  gesturesLayer: 0
+  gestures: []
+  onFinishedPlaying:
+    m_PersistentCalls:
+      m_Calls: []
+  lastUsedVersion: 1.521
+--- !u!114 &63524948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 63524944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4c3c6345ee104b4695e6f7a2c098f3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blendSystem: {fileID: 63524945}
+  blinkingEnabled: 1
+  blinkingControlMode: 1
+  blinkingShape:
+    blendShapes: 56000000
+    blendableNames:
+    - Genesis8Male__eCTRLSurprised_HD (0)
+    weights:
+    - 100
+    bones: []
+    verified: 1
+  leftEyeBlinkBlendable: 91
+  rightEyeBlinkBlendable: 90
+  minimumBlinkGap: 1
+  maximumBlinkGap: 2.5
+  blinkDuration: 0.14
+  randomLookingEnabled: 0
+  lookingControlMode: 0
+  lookingUpShape:
+    blendShapes: 
+    blendableNames: []
+    weights: []
+    bones: []
+    verified: 1
+  lookingDownShape:
+    blendShapes: 
+    blendableNames: []
+    weights: []
+    bones: []
+    verified: 1
+  lookingLeftShape:
+    blendShapes: 
+    blendableNames: []
+    weights: []
+    bones: []
+    verified: 1
+  lookingRightShape:
+    blendShapes: 
+    blendableNames: []
+    weights: []
+    bones: []
+    verified: 1
+  _leftEyeLookAtBone: {fileID: 0}
+  _rightEyeLookAtBone: {fileID: 0}
+  eyeRotationRangeX: {x: -6.5, y: 6.5}
+  eyeRotationRangeY: {x: -17.2, y: 17.2}
+  eyeLookOffset: {x: 0, y: 0, z: 0}
+  eyeForwardAxis: 4
+  eyeTurnSpeed: 18
+  minimumChangeDirectionGap: 2
+  maximumChangeDirectionGap: 10
+  targetEnabled: 0
+  autoTarget: 0
+  autoTargetTag: EyeControllerTarget
+  autoTargetDistance: 10
+  viewTarget: {fileID: 0}
+  targetWeight: 1
+  boneUpdateAnimation: 0
+--- !u!4 &63524950 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+    type: 3}
+  m_PrefabInstance: {fileID: 3825043879861155442}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &207215060
 GameObject:
   m_ObjectHideFlags: 0
@@ -1193,6 +2209,133 @@ MonoBehaviour:
   viewTarget: {fileID: 0}
   targetWeight: 1
   boneUpdateAnimation: 0
+--- !u!1 &686081492
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 686081494}
+  - component: {fileID: 686081493}
+  m_Layer: 0
+  m_Name: Daz3D Sound
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &686081493
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 686081492}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: f2d6afe568dab594199362b87ce57820, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &686081494
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 686081492}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.65, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 63524950}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1139465945
 GameObject:
   m_ObjectHideFlags: 0
@@ -1772,6 +2915,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &1562061910 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+    type: 3}
+  m_PrefabInstance: {fileID: 3825043879861155442}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1761512943
 GameObject:
   m_ObjectHideFlags: 0
@@ -2180,3 +3329,147 @@ MonoBehaviour:
   mouseSensitivity: 100
   xRotation: 0
   player: {fileID: 311746376}
+--- !u!1001 &3825043879861155442
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1813740421252100852, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_Name
+      value: Daz3d_Genesis8Male
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.866
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007287684714833112, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 123
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[0]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[14]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[24]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[23]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[9]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[17]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[20]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[16]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[15]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[8]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[2]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[4]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[6]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7560329138538200382, guid: 4129e3c6c52eca64e9f19b0462504af0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[86]
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4129e3c6c52eca64e9f19b0462504af0, type: 3}
