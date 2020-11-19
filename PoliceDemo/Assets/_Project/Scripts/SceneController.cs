@@ -20,5 +20,6 @@ public class SceneController : MonoBehaviour
         yield return StartCoroutine(soundManager.WaitForIntroAudio());
         yield return StartCoroutine(screenFade.FadeImage(true));
         yield return StartCoroutine(lightManager.StartPoliceLights());
+        yield return StartCoroutine(soundManager.PlayTrafficAudio());
     }
 }

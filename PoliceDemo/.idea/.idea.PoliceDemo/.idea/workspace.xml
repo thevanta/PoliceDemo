@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7df3411-358e-497b-b3a4-c71212582aef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scenes/__Cody_Debug.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scenes/__Cody_Debug.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scripts/LightManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/LightManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/HDRPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/HDRPProjectSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="b7df3411-358e-497b-b3a4-c71212582aef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,10 +43,10 @@
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/ImageFade.cs" />
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Fade.cs" />
         <option value="$PROJECT_DIR$/Assets/SceneController.cs" />
-        <option value="$PROJECT_DIR$/Assets/SoundManager.cs" />
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/ScreenFade.cs" />
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/LightManager.cs" />
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/SceneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SoundManager.cs" />
       </list>
     </option>
   </component>
@@ -107,7 +101,7 @@
       <workItem from="1605227231318" duration="2744000" />
       <workItem from="1605670098917" duration="595000" />
       <workItem from="1605757783507" duration="594000" />
-      <workItem from="1605813944722" duration="2294000" />
+      <workItem from="1605813944722" duration="2835000" />
     </task>
     <servers />
   </component>
