@@ -31,12 +31,12 @@ public class LightManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		LightList = GetComponentsInChildren<CopLight>();
-		Debug.Log(LightList.Length);
 		lights = lightParent.GetComponentsInChildren<Light>();
-		foreach (Light light in lights)
+		/*foreach (Light light in lights)
 		{
 			light.enabled = false; //turn off the light at start of game
-		}
+		}*/
+		EnableLights();
 	}
 
 	[Button]
@@ -67,5 +67,11 @@ public class LightManager : MonoBehaviour {
 		{
 			floodLight.enabled = false;
 		}
+	}
+
+	public IEnumerator StartPoliceLights()
+	{
+		EnableLights();
+		yield return null;
 	}
 }
