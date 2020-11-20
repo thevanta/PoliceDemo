@@ -28,6 +28,7 @@
             <e p="PlayerMovement.cs" t="Include" />
             <e p="SceneController.cs" t="Include" />
             <e p="ScreenFade.cs" t="Include" />
+            <e p="SoundManager.cs" t="Include" />
           </e>
           <e p="Shaders" t="Include">
             <e p="Tranclucent.shader" t="Include" />
@@ -794,7 +795,6 @@
         <e p="Scenes" t="Include">
           <e p="READ ME - About Scene.txt" t="Include" />
         </e>
-        <e p="SoundManager.cs" t="Include" />
         <e p="TutorialInfo" t="Include">
           <e p="Scripts" t="Include">
             <e p="Editor" t="Include">

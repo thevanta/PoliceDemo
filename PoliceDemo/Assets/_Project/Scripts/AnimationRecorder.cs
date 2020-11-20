@@ -1,31 +1,54 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEditor;
+using UnityEditor.Animations;
+ 
 public class AnimationRecorder : MonoBehaviour
 {
-
-    public float timeToRecord;
-    
-    // Start is called before the first frame update
+    // The clip the recording is going to be saved to.
+    public AnimationClip clip;
+ 
+    // Checkbox to start/stop the recording.
+    public bool record = false;
+ 
+    // The main feature: the actual recorder.
+    private GameObjectRecorder m_Recorder;
+    public float snapshotMultiplier = 1f;
+ 
     void Start()
     {
-        StartRecording(timeToRecord);
+        // Create the GameObjectRecorder.
+        m_Recorder = new GameObjectRecorder(gameObject);
+        //m_Recorder.root = gameObject;
+ 
+        // Set it up to record the transforms recursively.
+        m_Recorder.BindComponentsOfType<Transform>(gameObject, true);
     }
-
-    // Update is called once per frame
-    void Update()
+ 
+    // The recording needs to be done in LateUpdate in order
+    // to be done once everything has been updated
+    // (animations, physics, scripts, etc.).
+    void LateUpdate()
     {
-        
-    }
+        if (clip == null)
+        {
+            Debug.Log("Animation Clip missing...");
+            return;
+        }
 
-    private void StartRecording(float timeToRecord)
-    {
-        StartCoroutine(RecordMovement(timeToRecord));
-    }
-
-    IEnumerator RecordMovement(float timeLimit)
-    {
-        yield return new WaitForSeconds(timeLimit);
+        if (record)
+        {
+            // As long as "record" is on: take a snapshot.
+            //m_Recorder.TakeSnapshot(Time.deltaTime);
+            m_Recorder.TakeSnapshot(Time.deltaTime * snapshotMultiplier);
+        }
+        else if (m_Recorder.isRecording)
+        {
+            // "record" is off, but we were recording:
+            // save to clip and clear recording.
+            m_Recorder.SaveToClip(clip);
+            m_Recorder.ResetRecording();
+        }
     }
 }
