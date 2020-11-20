@@ -20,8 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7df3411-358e-497b-b3a4-c71212582aef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoliceDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HDRPDefaultResources/HDRPDefaultSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HDRPDefaultResources/HDRPDefaultSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NatureManufacture Assets - Trials Not Full Resolution/EasyRoads-HD_Add_ON/Road Textures/Asphalt.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NatureManufacture Assets - Trials Not Full Resolution/EasyRoads-HD_Add_ON/Road Textures/Asphalt.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/HDRenderPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/HDRenderPipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneSkyandFogSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneSkyandFogSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Materials/14 - Default.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Materials/14 - Default.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Materials/black image.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Materials/black image.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Prefabs/Screen Fade.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/Screen Fade.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Props/DriverCar/Materials/Glass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Props/DriverCar/Materials/Glass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Props/DriverCar/Materials/Hyundai azera 2016 albedo.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Props/DriverCar/Materials/Hyundai azera 2016 albedo.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scenes/__Cody_Debug.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scenes/__Cody_Debug.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scripts/LightManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/LightManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scripts/ScreenFade.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/ScreenFade.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +62,10 @@
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/ImageFade.cs" />
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Fade.cs" />
         <option value="$PROJECT_DIR$/Assets/SceneController.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/ScreenFade.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/LightManager.cs" />
         <option value="$PROJECT_DIR$/Assets/SoundManager.cs" />
         <option value="$PROJECT_DIR$/Assets/_Project/Scripts/SceneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/ScreenFade.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Project/Scripts/LightManager.cs" />
       </list>
     </option>
   </component>
@@ -104,7 +120,7 @@
       <workItem from="1605227231318" duration="2744000" />
       <workItem from="1605670098917" duration="595000" />
       <workItem from="1605757783507" duration="594000" />
-      <workItem from="1605813944722" duration="4172000" />
+      <workItem from="1605813944722" duration="8907000" />
     </task>
     <servers />
   </component>
@@ -126,5 +142,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="2376" height="1216" key="VCS.FileHistoryDialog" timestamp="1605854434981">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="VCS.FileHistoryDialog/0.0.2560.1400/-1920.264.1920.1040@0.0.2560.1400" timestamp="1605854434981" />
   </component>
 </project>

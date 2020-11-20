@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Project/Scenes/Intro.unity
-    guid: bee127839ca08bc4e98d6bff405f001d
+    path: Assets/_Project/Scenes/__Cody_Debug.unity
+    guid: 3c0eee7db3e675e459ec3a97d46e2445
   m_configObjects: {}

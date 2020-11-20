@@ -32,10 +32,6 @@ public class LightManager : MonoBehaviour {
 	void Start () {
 		LightList = GetComponentsInChildren<CopLight>();
 		lights = lightParent.GetComponentsInChildren<Light>();
-		/*foreach (Light light in lights)
-		{
-			light.enabled = false; //turn off the light at start of game
-		}*/
 		EnableLights();
 	}
 

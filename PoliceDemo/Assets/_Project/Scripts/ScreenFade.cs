@@ -7,7 +7,7 @@ using Sirenix.OdinInspector;
 public class ScreenFade : MonoBehaviour {
  
     // the image you want to fade, assign in inspector
-    public SpriteRenderer spriteRenderer;
+    public RawImage image;
 
     [Button]
     public void FadeToOpaque()
@@ -30,9 +30,11 @@ public class ScreenFade : MonoBehaviour {
             for (float i = 1; i >= 0; i -= Time.deltaTime)
             {
                 // set color with i as alpha
-                spriteRenderer.color = new Color(1, 1, 1, i);
+                image.color = new Color(1, 1, 1, i);
                 yield return null;
             }
+            
+            Debug.Log("Complete fade to transparent.");
         }
         // fade from transparent to opaque
         else
@@ -41,9 +43,10 @@ public class ScreenFade : MonoBehaviour {
             for (float i = 0; i <= 1; i += Time.deltaTime)
             {
                 // set color with i as alpha
-                spriteRenderer.color = new Color(1, 1, 1, i);
+                image.color = new Color(1, 1, 1, i);
                 yield return null;
             }
+            Debug.Log("Complete transparent to opaque.");
         }
     }
 }
