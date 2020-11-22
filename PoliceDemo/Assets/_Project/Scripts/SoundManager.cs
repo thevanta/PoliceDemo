@@ -9,12 +9,14 @@ public class SoundManager : MonoBehaviour
     
     public IEnumerator WaitForIntroAudio()
     {
+        //TODO optimize if you can, use WaitForSeconds, or event
         while (introAudioSource.isPlaying)
         {
             yield return null;
         }
     }
 
+    //TODO probably doesn't need to be a coroutine
     public IEnumerator PlayTrafficAudio()
     {
         trafficAudioSource.Play();

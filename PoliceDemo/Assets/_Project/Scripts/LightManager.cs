@@ -3,8 +3,10 @@ using System.Collections;
 using System.Collections.Generic;
 using Sirenix.OdinInspector;
 
-public class LightManager : MonoBehaviour {
-
+public class LightManager : MonoBehaviour 
+{
+	//TODO make public fields Serialized private fields	
+	//FIX naming conventions, ie. private fields should be _camelCase
 	public CopLight[] LightList;
 	public Light[] floodLights;
 	public float rotationsPerMinute = 50.0f;
@@ -16,10 +18,11 @@ public class LightManager : MonoBehaviour {
 	private int sirenMode = 0;
 	private Light[] lights;
 	public GameObject lightParent;
-	private AudioSource Sound;
-	public AudioClip Siren1;
-	public AudioClip Siren2;
-	public AudioClip Horn;
+	
+	private AudioSource Sound;		//TODO use descriptive name, ex) _lightAudioSource
+	public AudioClip Siren1;		//TODO most likely names shouldn't be numbered, unless describing a sequence. Up to you
+	public AudioClip Siren2;		//TODO use descriptive names, SirenCutOffAudioClip
+	public AudioClip Horn;			//HornAudioClip
 
 
 	void Awake()
@@ -30,6 +33,7 @@ public class LightManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		//TODO add sanity checks, or debug messages
 		LightList = GetComponentsInChildren<CopLight>();
 		lights = lightParent.GetComponentsInChildren<Light>();
 		EnableLights();
@@ -40,12 +44,15 @@ public class LightManager : MonoBehaviour {
 	{
 		foreach (CopLight light in LightList)
 		{
+			//TODO add sanity check
+			//if (!light)
 			light.enabled = true; //turn off the light at start of game
 			light.rotationEnabled = true;
 		}
 
 		foreach (Light floodLight in floodLights)
 		{
+			//TODO add sanity check
 			floodLight.enabled = true;
 		}
 	}
@@ -55,16 +62,19 @@ public class LightManager : MonoBehaviour {
 	{
 		foreach (CopLight light in LightList)
 		{
+			//TODO add sanity check
 			light.enabled = false; //turn off the light at start of game
 			light.rotationEnabled = false;
 		}
 		
 		foreach (Light floodLight in floodLights)
 		{
+			//TODO add sanity check
 			floodLight.enabled = false;
 		}
 	}
 
+	//TODO probably doesn't need to be a coroutine
 	public IEnumerator StartPoliceLights()
 	{
 		EnableLights();
