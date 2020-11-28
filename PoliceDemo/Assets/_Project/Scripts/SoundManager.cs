@@ -4,19 +4,19 @@ using UnityEngine;
 
 public class SoundManager : MonoBehaviour
 {
-    public AudioSource introAudioSource;
-    public AudioSource trafficAudioSource;
+    [SerializeField] private AudioSource introAudioSource;
+    [SerializeField] private AudioSource trafficAudioSource;
+    [SerializeField] private float waitDelay;
+    
     
     public IEnumerator WaitForIntroAudio()
     {
-        //TODO optimize if you can, use WaitForSeconds, or event
         while (introAudioSource.isPlaying)
         {
-            yield return null;
+            yield return new WaitForSeconds(waitDelay);
         }
     }
 
-    //TODO probably doesn't need to be a coroutine
     public IEnumerator PlayTrafficAudio()
     {
         trafficAudioSource.Play();

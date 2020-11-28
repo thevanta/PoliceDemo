@@ -33,8 +33,6 @@ public class ScreenFade : MonoBehaviour {
                 image.color = new Color(1, 1, 1, i);
                 yield return null;
             }
-            
-            Debug.Log("Complete fade to transparent.");
         }
         // fade from transparent to opaque
         else
@@ -46,7 +44,6 @@ public class ScreenFade : MonoBehaviour {
                 image.color = new Color(1, 1, 1, i);
                 yield return null;
             }
-            Debug.Log("Complete transparent to opaque.");
         }
     }
 }

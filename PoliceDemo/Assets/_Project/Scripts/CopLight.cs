@@ -7,85 +7,65 @@ using System.Collections;
 
 public class CopLight : MonoBehaviour 
 {
-	//TODO make sure name code style casing is uniform
-	//TODO make public fields Serialized private fields	
-	[SerializeField] private float Offset;	//like this
-	
-	public bool flickering = false;
-	public bool flicker = false;	//TODO not being used
-	public float delayFlicker = 0;
-	public float speedFlicker = 0.4f;
-	public float rotationsPerMinute = 50f;
-	public float rotationSpeedModifier = 1f;
 	public bool rotationEnabled = false;
-	
-	public Light myLight;	//TODO light is public and can be set, but is also automatically assigned on awake
 
-	//TODO use cached transformed
-	//private Transform thisTransform;
+	[SerializeField] private float offset;
+	[SerializeField] private float rotationsPerMinute = 50f;
+	[SerializeField] private float rotationSpeedModifier = 1f;
+	[SerializeField] private float yAngle = 6.0f;
 	
-	
+	private Light _myLight;	
+
 	private void Awake()
 	{
-		//TODO add sanity check, to make sure you found Light
-		myLight = GetComponent<Light>();	//TODO if you are getting on awake, make myLight private
-		/*
-		 * if (myLight == null)
+		_myLight = GetComponent<Light>();	
+		
+		if (_myLight == null)
 		{
 			Debug.Log("myLight is null, attempting to get on gameObject.", this);
-			myLight = GetComponent<Light>();	//TODO if you are getting on awake, make myLight private
-			if (myLight == null)
+			_myLight = GetComponent<Light>();	
+			if (_myLight == null)
 			{
 				Debug.Log("myLight is null.", this);
-				//Add light component
-				// or error
+				gameObject.AddComponent<Light>();
 			}
 		}
-		 */
-
-		//TODO cache transform
-		//thisTransform = transform;
 	}
 
 	void Start()
 	{
-		transform.Rotate(0, Offset, 0);		//TODO cache the transform
-		StartCoroutine(Flashing());
+		transform.Rotate(0, offset, 0);	
 	}
 
 	private void OnEnable()
 	{	
-		//TODO null check
-		myLight.enabled = true;
+		if (_myLight)
+		{
+			_myLight.enabled = true;
+		}
+		else
+		{
+			Debug.Log("Unable to turn on lights. Light is null.", this);
+		}
 	}
 	
 	private void OnDisable()
 	{
-		//TODO null check
-		myLight.enabled = false;
+		if (_myLight)
+		{
+			_myLight.enabled = false;
+		}
+		else
+		{
+			Debug.Log("Unable to turn off lights. Light is null.", this);
+		}
 	}
 
 	void Update ()
 	{
 		if (rotationEnabled)
 		{
-			//TODO don't hardcode yAngle
-			transform.Rotate(0, 6.0f * rotationsPerMinute * rotationSpeedModifier * Time.deltaTime, 0);		//TODO use cached transform
-		}
-	}
-	
-	private IEnumerator Flashing ()
-	{
-		if (flickering == true) {
-			yield return new WaitForSeconds (delayFlicker);
-			while (true)
-			{
-				yield return new WaitForSeconds (speedFlicker);
-				myLight.intensity = 0;
-				yield return new WaitForSeconds (speedFlicker);
-				myLight.intensity = 3;		//TODO don't hardcode, change to constant
-				Debug.Log ("Flicker");
-			}
+			transform.Rotate(0, yAngle * rotationsPerMinute * rotationSpeedModifier * Time.deltaTime, 0);
 		}
 	}
 }
